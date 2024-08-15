@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Create a React-Redux app that:
+
+Uses Redux for state management and API calls. [Use Redux core] 
+Fetches and displays posts from the API. [Using Axios to Call API]
+Includes a PostForm component to add new posts.
+
+Interface using Tailwind CSS: [Using this to made PostForm And Made Table to displays posts from the API].
